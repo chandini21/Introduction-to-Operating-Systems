@@ -1,1 +1,6 @@
+How Linked lists are different from arrays? Consider the following points :
 
+An array is a static data structure. This means the length of array cannot be altered at run time. While, a linked list is a dynamic data structure.
+In an array, all the elements are kept at consecutive memory locations while in a linked list the elements (or nodes) may be kept at any location but still connected to each other.
+
+When to prefer linked lists over arrays? Linked lists are preferred mostly when you don’t know the volume of data to be stored
